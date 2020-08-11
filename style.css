@@ -1,0 +1,15 @@
+body {
+  font-family: "Montserrat";
+}
+.container {
+  text-align: center;
+}
+
+.page-header div {
+  text-align: right;
+}
+
+.heading {
+  font-family: "sans-serif";
+  font-size: 35px;
+}
